@@ -1,0 +1,31 @@
+
+.tt{
+    width: 110px;
+    margin-left: 90px;
+    margin-top: 9px;
+}
+.dd{
+    margin-left: 90px;
+
+
+}
+.ll{
+    margin-left: 40px;
+}
+.contact{
+    margin-left: 810px;
+}
+.vertical-line {
+    border-right: 1px solid #ccc;
+    height: 120px;
+}
+.zz{
+    border-radius: 40px;
+}
+.aa{
+    font-size: 11px;
+}
+.text{
+    font-size: 13px;
+}
+
